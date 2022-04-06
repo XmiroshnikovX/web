@@ -1,0 +1,142 @@
+body {
+    margin: 0;
+
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    margin-top: 0px;
+    position: relative;
+    top: 20px;
+    
+    font-size: 50px;
+}
+
+h2 {
+    margin-top: 0px;
+    font-family: 'Staatliches', cursive;
+}
+
+p {
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 25px;
+}
+
+hr {
+    border-style: dotted;
+    border-color: #DAB88B;
+    border-width: 6px;
+    border-bottom: none;
+    width: 10%;
+    margin: 20px auto 20px auto;
+}
+
+.top-container{
+    background-color: #F3E9DD;
+    width: auto;
+    height: 350px;
+    text-align: center;
+}
+
+.sun {
+    position:absolute;
+    height: 75px;
+    right: 550px;
+    top: 75px;
+
+    
+    }
+
+.mountains {
+    position: absolute;
+    height: 300px;
+    right: 575px;
+    top: 100px;
+    }
+
+.middle-comtainer {
+    background-color: #FDF6EC;
+    width: auto;
+    height: 1000px;
+    }
+
+    .block-1 {
+        text-align: center;
+    }
+
+    .cyborg {
+        height: 150px;
+        border-radius: 100px;
+        background-color: black;
+    }
+
+    .block-2 {
+        position: relative;
+        
+    }
+
+    .development {
+        position: relative;
+        height: 300px;
+        left: 100px;
+        top: 20px;
+    }
+
+    .std {
+        position: absolute;
+        left: 425px;
+        margin-top: 30px;
+    }
+
+    .code {
+        position: absolute;
+        left: 425px;
+        top: 80px;
+        width: 400px;
+        
+    }
+
+    .block-3 {
+        position:relative;
+        
+        
+    }
+
+    .startups {
+        position: absolute;
+        right: 425px;
+        margin-top: 35px;
+    
+    }
+
+
+    .imagine {
+        position:relative;
+        height: 300px;
+        top: 20px;
+        left: 1050px;
+    }
+
+    .info {
+        position: absolute;
+        left: 625px;
+        width: 400px;
+        top: 80px;
+    }
+
+    .bottom-container {
+        background-color: #F1DDBF;
+        text-align: center;
+
+    }
+
+    .heh {
+        position: relative;
+        top: 20px;
+    }
+
+    a {
+        border-bottom: none;
+        color: 
+        #BE8C63;
+    }
